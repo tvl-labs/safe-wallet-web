@@ -3238,10 +3238,10 @@
     semver "^7.3.8"
     web3-utils "^1.8.1"
 
-"@safe-global/safe-deployments@^1.22.0", "@safe-global/safe-deployments@^1.25.0", "@safe-global/safe-deployments@npm:@kuzirashi/safe-deployments@1.26.0":
-  version "1.26.0"
-  resolved "https://registry.yarnpkg.com/@kuzirashi/safe-deployments/-/safe-deployments-1.26.0.tgz#62c038d5ba6eb54262b7e958245aea4891c6796b"
-  integrity sha512-xA+wCVdmDyI6kPoU4vFQCVvOryYDOFep9TT35IrAAEpjZCysZnydqa391OxV2jMVkbCLM+NPMGtBk+B1IA9XnA==
+"@safe-global/safe-deployments@^1.22.0", "@safe-global/safe-deployments@^1.25.0", "@safe-global/safe-deployments@npm:@kuzirashi/safe-deployments@1.27.0":
+  version "1.27.0"
+  resolved "https://registry.yarnpkg.com/@kuzirashi/safe-deployments/-/safe-deployments-1.27.0.tgz#07035f317f2ce704cf0722a6f4d60bec723fb6da"
+  integrity sha512-lCN4rnplnNzDGHN7VBiipaYxMaPWm8l/QZxRrWyM+8BfSwSVOrD9Kk6FSjV1Z12MwYd74szO8iFNk8JkU4Lrjg==
   dependencies:
     semver "^7.3.7"
 
