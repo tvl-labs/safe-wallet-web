@@ -3238,17 +3238,10 @@
     semver "^7.3.8"
     web3-utils "^1.8.1"
 
-"@safe-global/safe-deployments@^1.22.0":
-  version "1.22.0"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.22.0.tgz#4214ac5a9ebcad7cdbf5f641b0728bc0e497286e"
-  integrity sha512-SmbeCRMlcO/EONxbV6nP6pM/60q0NIHVezxx5FMv0dIAkDffdbm25reonKlOk3AJYW1b/c6pZA0RbWDwFSJEkQ==
-  dependencies:
-    semver "^7.3.7"
-
-"@safe-global/safe-deployments@^1.25.0":
-  version "1.25.0"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.25.0.tgz#882f0703cd4dd86cc19238319d77459ded09ec88"
-  integrity sha512-j7Ml1MVZw73XMTLbyIjo+Gvohwg5HYi8WM6b3vo+AkYEO/X4TNY8eJ0T0Awip5PO9MNyZymF3QY065uccQP53A==
+"@safe-global/safe-deployments@^1.22.0", "@safe-global/safe-deployments@^1.25.0", "@safe-global/safe-deployments@npm:@tvl-labs/safe-deployments":
+  version "1.26.0"
+  resolved "https://npm.pkg.github.com/download/@tvl-labs/safe-deployments/1.26.0/15db632181b75f3aea89123b1d8c659e25db7ca0#15db632181b75f3aea89123b1d8c659e25db7ca0"
+  integrity sha512-w9vpAA7DyJECoEoq3UeoKtIUO02LtX/zTZvsUVnNEx+bd4Ai7JeBql0PlwZFmiKDp1JDGQ3iM7SncGF/3Vvs4w==
   dependencies:
     semver "^7.3.7"
 
