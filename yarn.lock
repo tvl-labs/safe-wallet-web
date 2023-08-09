@@ -3238,10 +3238,10 @@
     semver "^7.3.8"
     web3-utils "^1.8.1"
 
-"@safe-global/safe-deployments@^1.22.0", "@safe-global/safe-deployments@^1.25.0", "@safe-global/safe-deployments@npm:@tvl-labs/safe-deployments":
+"@safe-global/safe-deployments@^1.22.0", "@safe-global/safe-deployments@^1.25.0", "@safe-global/safe-deployments@npm:@kuzirashi/safe-deployments@1.26.0":
   version "1.26.0"
-  resolved "https://npm.pkg.github.com/download/@tvl-labs/safe-deployments/1.26.0/15db632181b75f3aea89123b1d8c659e25db7ca0#15db632181b75f3aea89123b1d8c659e25db7ca0"
-  integrity sha512-w9vpAA7DyJECoEoq3UeoKtIUO02LtX/zTZvsUVnNEx+bd4Ai7JeBql0PlwZFmiKDp1JDGQ3iM7SncGF/3Vvs4w==
+  resolved "https://registry.yarnpkg.com/@kuzirashi/safe-deployments/-/safe-deployments-1.26.0.tgz#62c038d5ba6eb54262b7e958245aea4891c6796b"
+  integrity sha512-xA+wCVdmDyI6kPoU4vFQCVvOryYDOFep9TT35IrAAEpjZCysZnydqa391OxV2jMVkbCLM+NPMGtBk+B1IA9XnA==
   dependencies:
     semver "^7.3.7"
 
